@@ -26,7 +26,7 @@ export default function Home() {
 
   const tools = {
     "Deployment Tool": [
-      { name: "Defang", link: "https://defang.io", image: "/images/defang-small.png" }
+      { name: "Defang", link: "https://defang.io", image: "/images/blue-logo.png" }
     ],
     "Hyperscaler Cloud Tools": [
       { name: "Amazon Web Services (AWS)", link: "https://aws.amazon.com", image: "https://d1.awsstatic.com/logos/aws-logo-lockups/poweredbyaws/PB_AWS_logo_RGB_stacked_REV_SQ.91cd4af40773cbfbd15577a3c2b8a346fe3e8fa2.png" },
